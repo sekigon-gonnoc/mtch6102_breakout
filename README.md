@@ -9,6 +9,7 @@ Breakout board of MTCH6102, a 2D capacitive touch sensor, for DIY split keyboard
 表面実装部品は左側の列から付けることをお勧めします。ただし、C1, C3はそれぞれU1, U2の後に付けたほうがよいです。
 
 D1, D2, D3, U2をつける際は向きに注意してください。
+![半田面](https://github.com/sekigon-gonnoc/mtch6102_breakout/blob/master/bottom.JPG "はんだ面")
 
 |シルク|個数|パッケージ|部品|
 |--|--|--|--|
